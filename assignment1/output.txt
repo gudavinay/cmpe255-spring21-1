@@ -1,0 +1,16 @@
+Linear Regression
+RMSE 6.807077593213252
+RSquared 0.43095672846187605
+
+Polynomial Regression with degree 2 
+RMSE 6.232725620601888
+RSquared 0.5229324163738781
+
+Polynomial Regression with degree 20 
+RMSE 132.67928241502685
+RSquared -215.18727050367033
+
+Multiple Regression
+RMSE 6.374165768648689 
+RSquared 0.5010344086870298 
+AdjustedRSquared 0.4857599518101021
