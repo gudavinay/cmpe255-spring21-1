@@ -1,0 +1,4 @@
+Saving figure some_digit_plot
+Predicting result of random number generated is 5:  [ True]
+RMSE value:  0.0369
+Cross validation score:  [0.96225 0.9645  0.94765]
